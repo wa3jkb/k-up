@@ -8,5 +8,5 @@
  ------------------------
  For test : in memory DB and stops when app stops  
  - container with APP DB load and delete DB; postgres
- - Data modle 
+ - Data model
  ------------------------
